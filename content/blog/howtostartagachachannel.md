@@ -2,7 +2,7 @@
 const title = "how to start a gacha channel!";
 const date = "2025-01-19";
 const draft = false;
-
+tags: ["gacha", "gacha channel", "how-to make a gacha channel"]
 ---
 ok! so, you want to start a gacha channel? here are some quick tips:
 
