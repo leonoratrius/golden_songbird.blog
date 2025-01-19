@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+hi! Im golden_songbird, this is my online diary, though names and places will be changed. i will also make how-to post about gacha videos, including ideas, and characters.
