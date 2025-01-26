@@ -16,3 +16,8 @@ tags: ["gacha", "gacha channel", "how-to make a gacha channel"]
 
 
 **thats al the advice i have for you today, i hope that any aspiring gachatubers reading find this helpfull!**
+
+
+**_update_** 
+
+_capcut is not getting banned, but i am switching to kinemaster._
