@@ -3,18 +3,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Blog Title</title>
   <subtitle>This is a longer description about your blog.</subtitle>
-  <link href="https://example.com/golden_songbird.blog/feed/feed.xml" rel="self" />
-  <link href="https://example.com/golden_songbird.blog/" />
+  <link href="https://example.com/feed/feed.xml" rel="self" />
+  <link href="https://example.com/" />
   <updated>2025-01-20T00:00:00Z</updated>
-  <id>https://example.com/golden_songbird.blog/</id>
+  <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
   <entry>
     <title>tips on how to make gacha videos</title>
-    <link href="https://example.com/golden_songbird.blog/blog/moregachavidtips/" />
+    <link href="https://example.com/blog/moregachavidtips/" />
     <updated>2025-01-20T00:00:00Z</updated>
-    <id>https://example.com/golden_songbird.blog/blog/moregachavidtips/</id>
+    <id>https://example.com/blog/moregachavidtips/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;hi! in this second post abt making gacha channels, i am gonna talk abt how to make the videos! now, this is coming from &lt;em&gt;MY&lt;/em&gt; experience, so it will be a different from your experence.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -34,18 +34,18 @@
   </entry>
   <entry>
     <title>i used an 11ty blog base</title>
-    <link href="https://example.com/golden_songbird.blog/blog/possum%20pic/fourthpost/" />
+    <link href="https://example.com/blog/possum%20pic/fourthpost/" />
     <updated>2025-01-19T00:00:00Z</updated>
-    <id>https://example.com/golden_songbird.blog/blog/possum%20pic/fourthpost/</id>
+    <id>https://example.com/blog/possum%20pic/fourthpost/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;ok, so i used an eleventy base for this blog, and this was one of the example posts! this possum picture was just TOO CUTE to get rid of, so here ya go- a cute possum family riding a balloon.&lt;/em&gt;&lt;/p&gt;
-&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;/blog/possum pic/fourthpost/xbVnp_hAou-350.avif 350w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;/blog/possum pic/fourthpost/xbVnp_hAou-350.webp 350w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/golden_songbird.blog/blog/possum%20pic/fourthpost/xbVnp_hAou-350.png&quot; alt=&quot;A possum parent and two possum kids hanging from the iconic red balloon&quot; width=&quot;350&quot; height=&quot;685&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;/blog/possum pic/fourthpost/xbVnp_hAou-350.avif 350w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;/blog/possum pic/fourthpost/xbVnp_hAou-350.webp 350w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/possum%20pic/fourthpost/xbVnp_hAou-350.png&quot; alt=&quot;A possum parent and two possum kids hanging from the iconic red balloon&quot; width=&quot;350&quot; height=&quot;685&quot;&gt;&lt;/picture&gt;
 </content>
   </entry>
   <entry>
     <title>how to start a gacha channel!</title>
-    <link href="https://example.com/golden_songbird.blog/blog/howtostartagachachannel/" />
+    <link href="https://example.com/blog/howtostartagachachannel/" />
     <updated>2025-01-19T00:00:00Z</updated>
-    <id>https://example.com/golden_songbird.blog/blog/howtostartagachachannel/</id>
+    <id>https://example.com/blog/howtostartagachachannel/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;ok! so, you want to start a gacha channel? here are some quick tips:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;figure out your vein of content! are you into FNAF? harry potter? attack on titan? or, are you stand-alone, making completely original content with only your ocs?&lt;/li&gt;
@@ -58,9 +58,9 @@
   </entry>
   <entry>
     <title>my day d:</title>
-    <link href="https://example.com/golden_songbird.blog/blog/firstdiary/" />
+    <link href="https://example.com/blog/firstdiary/" />
     <updated>2025-01-19T00:00:00Z</updated>
-    <id>https://example.com/golden_songbird.blog/blog/firstdiary/</id>
+    <id>https://example.com/blog/firstdiary/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;hello! this is my first diary post, so i dont really have the hang of it yet. but as time goes on, hopefully i will get better!&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
