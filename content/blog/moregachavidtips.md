@@ -15,7 +15,7 @@ tags: ["gacha", "gacha channel", "how-to make a gacha channel"]
 * have a app, or site, to make the videos on! i use capcut, but i may switch soon, as it is getting banned on the US.
 
 
-**thats al the advice i have for you today, i hope that any aspiring gachatubers reading find this helpfull!**
+**thats all the advice i have for you today, i hope that any aspiring gachatubers reading find this helpfull!**
 
 
 **_update_** 
