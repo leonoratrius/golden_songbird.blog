@@ -22,12 +22,22 @@
 	</url>
 	
 	<url>
+		<loc>https://goldensongbird.blog/blog/visualnovelpost!!/</loc>
+		<lastmod>2025-02-20</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://goldensongbird.blog/about/</loc>
 		<lastmod>2025-06-15</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://goldensongbird.blog/blog/</loc>
+		<lastmod>2025-06-15</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://goldensongbird.blog/blog/about%20my...absent%20love%20life/</loc>
 		<lastmod>2025-06-15</lastmod>
 	</url>
 	
@@ -44,5 +54,10 @@
 	<url>
 		<loc>https://goldensongbird.blog/feed/feed.xml</loc>
 		<lastmod>2025-06-15</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://goldensongbird.blog/blog/sorry/</loc>
+		<lastmod>2025-06-20</lastmod>
 	</url>
 </urlset>

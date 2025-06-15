@@ -5,11 +5,39 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-01-20T00:00:00Z</updated>
+  <updated>2025-06-20T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>sorry, yall.</title>
+    <link href="https://example.com/blog/sorry/" />
+    <updated>2025-06-20T00:00:00Z</updated>
+    <id>https://example.com/blog/sorry/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;hey! im sorry that i hvnt posted in a while! so- whats happened since my last post? A LOTTTT&lt;/strong&gt;
+ok! so- idk if i already told y&#39;all this, buttt ive had this HUGE crush on a classmate for... a while actually. (lets call him N) soo, N is this guy in my grade, and... well, a few weeks before school ended, i realized that almost everyone exept him knew about my crush... soooo i told him. in two notes that i put in his locker...(im a coward, ik). so... do i have a bf now? no. no i do not. his friend has a crush on me, sooo either he rlly doesnt like me, or its &amp;quot;bro code&amp;quot;...bleh. um, imma end this here, as i got VERY off topic...
+**so, yeah, sorry, ima try to post more regularly, and have longer posts? see you later!**s&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title></title>
+    <link href="https://example.com/blog/about%20my...absent%20love%20life/" />
+    <updated>2025-06-15T17:05:35Z</updated>
+    <id>https://example.com/blog/about%20my...absent%20love%20life/</id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>I made a video game(sorta)!</title>
+    <link href="https://example.com/blog/visualnovelpost!!/" />
+    <updated>2025-02-20T00:00:00Z</updated>
+    <id>https://example.com/blog/visualnovelpost!!/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;i... i am SO sorry...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;i made a horrific game, and i am SO SO SO SORRY&lt;/p&gt;
+&lt;h2 id=&quot;it-sucks-the-plot-is-bad-and-i-will-never-do-this-again-sorry-again&quot;&gt;it sucks, the plot is bad, and i will never do this again!!!
+&lt;strong&gt;(sorry again)&lt;/strong&gt;&lt;/h2&gt;
+</content>
+  </entry>
   <entry>
     <title>tips on how to make gacha videos</title>
     <link href="https://example.com/blog/moregachavidtips/" />
